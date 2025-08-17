@@ -38,3 +38,4 @@ First off, the entire codebase works in Python 3. In addition to base Python, yo
 The "easiest" way is to install these is by installing <a href='https://www.anaconda.com' target="_blank">anaconda</a>, and then applying <a href='https://conda-forge.org/' target="_blank">conda-forge</a>. Afterward, then you can install the above packages. 
 
 ### Launch automatically with Binder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jjrennie/heat-index-relative-thresholds/HEAD?urlpath=%2Fdoc%2Ftree%2Fghcnh_heatIndex.ipynb)
